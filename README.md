@@ -10,23 +10,23 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.oracle.com/database/">
-    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" width="40" height="40"/>
+  <a href="https://www.oracle.com/database/" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" width="30" height="30" style="margin-right: 10px;"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://www.python.org/" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.vim.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="VIM" width="40" height="40"/>
+  <a href="https://www.vim.org/" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="VIM" width="30" height="30" style="margin-right: 10px;"/>
   </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30" style="margin-right: 10px;"/>
   </a>
 </p>
 
