@@ -1,6 +1,6 @@
 # <span style="font-family: 'Verdana', sans-serif; font-size: 2em;">👋 Hi, I'm Alessandro</span>
 
-<p style="font-family: 'Verdana', sans-serif; font-size: 1.0em; line-height: 1.2;">
+<p style="font-family: 'Verdana', sans-serif; font-size: 0.5em; line-height: 1.0;">
   I'm starting my journey in coding, focusing on Python and JavaScript.<br>
   Currently learning Django for web development and diving into JavaScript for front-end development.<br>
   Aspiring to build dynamic and responsive web applications.<br>
