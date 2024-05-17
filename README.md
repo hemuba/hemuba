@@ -3,19 +3,31 @@
 - I'm starting my journey in coding, focusing on Python and JavaScript.
 - Currently learning Django for web development and diving into JavaScript for front-end development.
 - Aspiring to build dynamic and responsive web applications.
+- Working with Oracle SQL as part of my job.
 - Looking to collaborate on open-source projects and learn from the community.
-- How to reach me: [LinkedIn](www.linkedin.com/in/alessandro-de-vincenti)
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/alessandro-de-vincenti)
 
-  ## 🛠️ Technologies & Tools
-  
+## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white" alt="VIM" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <a href="https://www.oracle.com/database/">
+    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.vim.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="VIM" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
 </p>
 
 <!---
