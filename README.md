@@ -6,6 +6,8 @@
   - Aspiring to build dynamic and responsive web applications.<br>
   - Working with Oracle SQL as part of my job.<br>
   - Looking to collaborate on open-source projects and learn from the community.<br>
+
+  
   How to reach me: <a href="https://www.linkedin.com/in/alessandro-de-vincenti" target="_blank">LinkedIn</a>
 </p>
 
