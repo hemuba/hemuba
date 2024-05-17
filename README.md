@@ -1,11 +1,11 @@
 # <span style="font-family: 'Verdana', sans-serif; font-size: 2em;">👋 Hi, I'm Alessandro</span>
 
 <p style="font-family: 'Verdana', sans-serif; font-size: 0.5em; line-height: 1.0;">
-  I'm starting my journey in coding, focusing on Python and JavaScript.<br>
-  Currently learning Django for web development and diving into JavaScript for front-end development.<br>
-  Aspiring to build dynamic and responsive web applications.<br>
-  Working with Oracle SQL as part of my job.<br>
-  Looking to collaborate on open-source projects and learn from the community.<br>
+  - I'm starting my journey in coding, focusing on Python and JavaScript.<br>
+  - Currently learning Django for web development and diving into JavaScript for front-end development.<br>
+  - Aspiring to build dynamic and responsive web applications.<br>
+  - Working with Oracle SQL as part of my job.<br>
+  - Looking to collaborate on open-source projects and learn from the community.<br>
   How to reach me: <a href="https://www.linkedin.com/in/alessandro-de-vincenti" target="_blank">LinkedIn</a>
 </p>
 
