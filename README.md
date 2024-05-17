@@ -1,4 +1,4 @@
-# <span style="font-family: 'Arial', sans-serif; font-size: 2em;">👋 Hi, I'm Alessandro</span>
+# <span style="font-family: 'Verdana', sans-serif; font-size: 2em;">👋 Hi, I'm Alessandro</span>
 
 <p style="font-family: 'Verdana', sans-serif; font-size: 1.2em; line-height: 1.5;">
   I'm starting my journey in coding, focusing on Python and JavaScript.<br>
