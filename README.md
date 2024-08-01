@@ -26,9 +26,6 @@
   <a href="https://www.python.org/" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin-right: 10px;"/>
-  </a>
   <a href="https://www.vim.org/" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="VIM" width="30" height="30" style="margin-right: 10px;"/>
   </a>
