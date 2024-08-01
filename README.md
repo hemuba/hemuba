@@ -14,7 +14,7 @@
 </p>
 
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <a href="https://www.oracle.com/database/" style="margin-right: 10px;">
