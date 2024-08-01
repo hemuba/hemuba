@@ -1,4 +1,4 @@
-# <span style="font-family: 'Verdana', sans-serif; font-size: 2em;">👋 Hi, I'm Alessandro</span>
+# <span style="font-family: 'Verdana', sans-serif; font-size: 2em;">Alessandro / hemuba</span>
 
 <p style="font-family: 'Verdana', sans-serif; font-size: 0.5em; line-height: 1.0;">
   - I'm deepening my journey in coding, with a strong focus on Python and its applications in automation and AI technologies.<br>
