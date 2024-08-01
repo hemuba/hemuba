@@ -1,4 +1,4 @@
-# <span style="font-family: 'Consolas', monospace; font-size: 2em;">alex / hemuba</span>
+# <span style="font-family: 'Consolas', monospace; font-size: 2em;">alessandro x hemuba</span>
 
 <p style="font-family: 'Consolas', monospace; font-size: 0.5em; line-height: 1.0;">
   - I'm deepening my journey in coding, with a strong focus on Python and its applications in automation and AI technologies.<br>
