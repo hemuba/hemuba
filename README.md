@@ -2,9 +2,9 @@
 
 <p style="font-family: 'Consolas', monospace; font-size: 0.5em; line-height: 1.0;">
   - Passionate about software architecture, backend development and automation.<br>
-  - Currently focused on **Java**, building structured applications with **Spring Boot**, REST APIs and database layers.<br>
-  - Using **Python** and **Bash** daily for scripting, system automation and data operations.<br>
-  - Experienced in **Oracle SQL**, data modeling, and PL/SQL procedures.<br>
+  - Currently focused on <strong>Java</strong>, building structured applications with <strong>Spring Boot</strong>, REST APIs and database layers.<br>
+  - Using <strong>Python</strong> and <strong>Bash</strong> daily for scripting, system automation and data operations.<br>
+  - Experienced in <strong>Oracle SQL</strong>, data modeling, and <strong>PL/SQL</strong>.<br>
   - Open to collaborating on backend and automation projects with real-world impact.<br>
 </p>
 
