@@ -1,4 +1,4 @@
-# Hi, I'm Alessandro! 👋
+# Hi, I'm Alessandro! 
 
 - Passionate about software architecture, backend development and automation  
 - Currently focused on **Java**, building structured applications with **Spring Boot**, REST APIs and database layers  
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Favorite tools
+## Favorite tools
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank">
