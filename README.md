@@ -1,36 +1,55 @@
-# <span style="font-family: 'Consolas', monospace; font-size: 2em;">Hi, I am Alessandro!</span>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Alessandro De Vincenti</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #e6e6e6;
+      font-family: Consolas, monospace;
+      padding: 40px;
+      line-height: 1.6;
+    }
+    a {
+      color: #00ffff;
+      text-decoration: none;
+    }
+    img {
+      vertical-align: middle;
+      margin-right: 10px;
+    }
+    .tech {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
 
-<p style="font-family: 'Consolas', monospace; font-size: 0.5em; line-height: 1.0;">
+<h1>Hi, I'm Alessandro!</h1>
+
+<p>
   - Passionate about software architecture, backend development and automation.<br>
-  - Currently focused on <strong>Java</strong>, building structured applications with <strong>Spring Boot</strong>, REST APIs and database layers.<br>
-  - Using <strong>Python</strong> and <strong>Bash</strong> daily for scripting, system automation and data operations.<br>
-  - Experienced in <strong>Oracle SQL</strong>, data modeling, and <strong>PL/SQL</strong>.<br>
-  - Open to collaborating on backend and automation projects with real-world impact.<br>
+  - Focused on <strong>Java</strong>, <strong>Spring Boot</strong>, REST APIs and databases.<br>
+  - Daily using <strong>Python</strong> and <strong>Bash</strong> for scripting and automation.<br>
+  - Experienced in <strong>Oracle SQL</strong> and <strong>PL/SQL</strong>.<br>
+  - Open to backend/automation projects with real-world impact.
 </p>
 
----
+<h2>🛠️ Favorite tools</h2>
 
-## Languages and Technologies
+<div class="tech">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> Java<br>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="30" height="30"/> Spring Boot<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python<br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="30" height="30"/> Bash<br>
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" width="30" height="30"/> Oracle SQL
+</div>
 
-<p align="left">
-  <a href="https://www.java.com/" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="30" height="30" />
-  </a>
-  <a href="https://www.python.org/" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" style="margin-right: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="30" height="30" />
-  </a>
-  <a href="https://www.oracle.com/database/" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" width="30" height="30" />
-  </a>
+<h2>📫 How to reach me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/alessandro-de-vincenti">LinkedIn → Alessandro De Vincenti</a>
 </p>
 
----
-
-## How to reach me
-[LinkedIn → Alessandro De Vincenti](https://www.linkedin.com/in/alessandro-de-vincenti)
+</body>
+</html>
