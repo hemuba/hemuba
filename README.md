@@ -1,4 +1,4 @@
-# <span style="font-family: 'Consolas', monospace; font-size: 2em;">Alessandro</span>
+# <span style="font-family: 'Consolas', monospace; font-size: 2em;">Hi, I am Alessandro!</span>
 
 <p style="font-family: 'Consolas', monospace; font-size: 0.5em; line-height: 1.0;">
   - Passionate about software architecture, backend development and automation.<br>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧰 Languages and Technologies
+## Languages and Technologies
 
 <p align="left">
   <a href="https://www.java.com/" style="margin-right: 10px;">
@@ -32,5 +32,5 @@
 
 ---
 
-## 📫 How to reach me
+## How to reach me
 [LinkedIn → Alessandro De Vincenti](https://www.linkedin.com/in/alessandro-de-vincenti)
