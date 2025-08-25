@@ -10,7 +10,7 @@ I care about clean structure, solid logic, and tools that actually make life eas
 Languages:   Java, Python, SQL - PL/SQL, Bash  
 Frameworks:  Spring Boot, JPA, Mockito  
 Databases:   Oracle 19c (SQL + PL/SQL), Postgres (basic)  
-Tools:       Git, Maven, Postman, Burp Suite
+Tools:       Git, Maven, Postman
 ```
 ## Contacts
 ```
